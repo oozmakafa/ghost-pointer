@@ -1,5 +1,5 @@
 # Welcome to Ghost Pointer
-Ghost pointer was created to prevent computers from idling by moving the mouse cursor randomly every few seconds
+Ghost pointer prevents your computer from idling by moving the mouse cursor randomly every few seconds
 
 ## Prerequisites
 - Python: https://www.python.org/downloads/
